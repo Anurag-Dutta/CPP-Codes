@@ -1,3 +1,7 @@
+/*
+    AUTHOR: BlueKnight
+    CREATED: 2021-09-18 24:44:57
+*/
 #include <bits/stdc++.h>
 #include <conio.h>
 
